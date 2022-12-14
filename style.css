@@ -1,0 +1,6 @@
+.bar{
+    fill: steelblue;
+}
+.bar.max{
+    fill: firebrick;
+}
